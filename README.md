@@ -1,4 +1,4 @@
-# Desafio Técnico Sync360.io: Perfil de Usuário 👤
+# Desafio Técnico: Perfil de Usuário 👤
 
 Bem-vindo ao **Desafio Técnico de Gestão de Perfil de Usuário** desenvolvido para a Sync360.io! Este projeto foca na criação de uma aplicação Fullstack que permite aos usuários gerenciar suas informações de perfil de forma intuitiva e persistente.
 
@@ -6,7 +6,7 @@ Bem-vindo ao **Desafio Técnico de Gestão de Perfil de Usuário** desenvolvido 
 
 ## 📋 Descrição do Projeto
 
-Este projeto é uma aplicação web completa desenvolvida para o desafio técnico da Sync360.io. Ela oferece uma interface de usuário responsiva e um backend robusto para gerenciar informações de perfil de usuário. O principal objetivo foi criar um ambiente onde o usuário pode editar seus dados pessoais, carregar uma foto e ter seu endereço preenchido automaticamente via integração com uma API externa, tudo isso com persistência de dados em um banco de dados MySQL.
+Este projeto é uma aplicação web completa desenvolvida para o desafio técnico. Ela oferece uma interface de usuário responsiva e um backend robusto para gerenciar informações de perfil de usuário. O principal objetivo foi criar um ambiente onde o usuário pode editar seus dados pessoais, carregar uma foto e ter seu endereço preenchido automaticamente via integração com uma API externa, tudo isso com persistência de dados em um banco de dados MySQL.
 
 ## 🚀 Funcionalidades
 
